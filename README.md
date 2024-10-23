@@ -3,7 +3,6 @@
 
 # Students' Streamlined Grievance Management System 
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
