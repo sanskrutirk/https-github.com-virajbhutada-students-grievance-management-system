@@ -29,7 +29,7 @@
 
 ## Introduction
 
-This project focuses on developing and implementing a **Students' Grievance Management System** in educational institutions. The system aims to address student concerns efficiently, providing them with a platform to voice their issues and seek resolution. By streamlining the process of submitting and tracking grievances, the system ensures transparency and accountability, ultimately fostering a more supportive educational environment. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
+This project focuses on developing and implementing a **Students' Grievance Management System** in educational institutions. The system aims to address student concerns efficiently, providing them a platform to voice their issues and seek resolution. The system ensures transparency and accountability by streamlining the process of submitting and tracking grievances, ultimately fostering a more supportive educational environment. The [Research Paper](https://www.jetir.org/view?paper=JETIR2304A80) delves into the benefits, challenges, and the necessity of such a system.
 
 Implementing a grievance management system not only helps in resolving student issues promptly but also enhances the overall institutional workflow. It provides valuable insights into recurring problems, allowing administrators to make informed decisions and improve policies. Moreover, the system promotes student engagement and satisfaction by ensuring their voices are heard and their issues are taken seriously. This proactive approach contributes to a healthier academic atmosphere and reinforces the institution's commitment to student welfare.
 
@@ -37,13 +37,13 @@ Implementing a grievance management system not only helps in resolving student i
 
 ## Key Features
 
-- **Transparent Complaint Handling**: Ensuring transparency, fairness, and accountability in addressing student complaints is fundamental. The system provides clear visibility into the grievance resolution process, fostering trust and confidence among students.
+- **Transparent Complaint Handling**: It is fundamental to ensure transparency, fairness, and accountability in addressing student complaints. The system provides clear visibility into the grievance resolution process, fostering trust and confidence among students.
 
 - **Web Application Interface**: Students and administrators benefit from a user-friendly web application interface. This intuitive platform facilitates seamless interaction with the grievance management system, enhancing accessibility and usability.
 
 - **Effective Communication Channels**: The system offers robust communication channels designed to streamline the submission of complaints by students and prompt responses from administrators. This ensures timely resolution and satisfaction.
 
-- **Structured Framework**: Built on a structured framework, the system incorporates well-defined procedures, explicit guidelines, and established reporting systems. This structured approach promotes consistency and clarity throughout the grievance handling process.
+- **Structured Framework**: Built on a structured framework, the system incorporates well-defined procedures, explicit guidelines, and established reporting systems. This structured approach promotes consistency and clarity throughout the grievance-handling process.
 
 - **Training and Support**: Staff members undergo comprehensive training in grievance resolution, emphasizing professionalism and impartiality. This equips them with the skills and knowledge needed to handle complaints effectively and empathetically.
 
